@@ -1,7 +1,7 @@
 - 👋 Hi, I’m shivam 
 - 👀 I’m working as a Jr. Salesforce Dev 
-- 🌱 I’m currently playing with LWC.
-- 💞️ I’m looking to collaborate on Open Source projects
+- 🌱 Currently playing with LWC.
+- 💞️ Looking forward to collaborating on projects
 - 📫 How to reach me bindrooshivam976@gmail.com
 
 <!---
