@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Redrum07
-- 👀 I’m interested in anything related to coding
-- 🌱 I’m currently learning FrontEnd Web Development
-- 💞️ I’m looking to collaborate on Open Source project
+- 👋 Hi, I’m shivam 
+- 👀 I’m working as a Jr. Salesforce Dev 
+- 🌱 I’m currently playing with LWC.
+- 💞️ I’m looking to collaborate on Open Source projects
 - 📫 How to reach me bindrooshivam976@gmail.com
 
 <!---
